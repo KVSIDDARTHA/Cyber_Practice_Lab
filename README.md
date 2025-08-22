@@ -24,7 +24,9 @@ Cyber-Practice-Lab/
 │   ├── hash_checker.py
 │   ├── README.md
 │   └── requirements.txt
-...
+|__ Day-03_Password Strength Evaluator/
+|   |__ Password Strength Evaluator.py
+|   |__ README.md
 ```
 
 ### Skills Demonstrated
